@@ -80,4 +80,4 @@ This project is for educational purposes as part of the EART70169 course at Impe
 
 ---
 
-*Last updated: January 6, 2025*
+*Last updated: October 6, 2025*
