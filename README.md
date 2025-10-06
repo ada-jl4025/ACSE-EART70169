@@ -71,8 +71,8 @@ This repository is for educational purposes only. All work submitted must be ori
 
 ## Contact
 
-- **Ju Lin:** [Email/Contact Information]
-- **Thomas Carruthers:** [Email/Contact Information]
+- **Ju Lin:** jl4025@ic.ac.uk
+- **Thomas Carruthers:** tic25@ic.ac.uk
 
 ## License
 
@@ -80,4 +80,4 @@ This project is for educational purposes as part of the EART70169 course at Impe
 
 ---
 
-*Last updated: [Current Date]*
+*Last updated: January 6, 2025*
